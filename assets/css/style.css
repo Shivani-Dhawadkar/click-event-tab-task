@@ -1,0 +1,13 @@
+
+.tabBody .card{
+    display: none;
+}
+
+.tabBody .card.active{
+    display: block;
+   
+} ; 
+ .nav-link.active{
+    background-color: aqua;
+};
+
